@@ -3,10 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>LANDING</title>
+    <title>Quảng cáo Bamboo Airways</title>
     <link rel="stylesheet" href="/frontend/css/bootstrap-3.3.2.min.css">
     <link rel="stylesheet" href="/frontend/css/owl.carousel.css">
     <link rel="stylesheet" href="/frontend/css/landing.css">
+    <link rel="icon" type="image/png" href="/frontend/images/icon-32x32.jpg?v=QE5Ndaw9M9" sizes="32x32">
+    <link rel="icon" type="image/png" href="/frontend/images/icon-16x16.jpg?v=QE5Ndaw9M9" sizes="16x16">
 </head>
 <body>
 <div class="wrapper">
